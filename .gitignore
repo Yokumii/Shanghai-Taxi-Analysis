@@ -1,0 +1,9 @@
+*.zip
+*.log
+
+/data/Merged_res.csv
+raw_data/
+/data/cleaned_trips_combined/
+/data/cleaned_trips/
+/data/trips/
+/data/vehicles/
