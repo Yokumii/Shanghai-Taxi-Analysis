@@ -1,5 +1,6 @@
 *.zip
 *.log
+*.npy
 
 /data/Merged_res.csv
 raw_data/
