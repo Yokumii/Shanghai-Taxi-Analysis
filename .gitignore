@@ -8,3 +8,5 @@ raw_data/
 /data/cleaned_trips/
 /data/trips/
 /data/vehicles/
+/data/grid/grid_distance_matrix.csv
+/data/results/predicted_traffic_matrix.csv
